@@ -23,7 +23,7 @@
 > 스크럼 마스터
 
 <details>
-  <summary><b style="color: gray">Detail</b></summary>
+  <summary><b style="color: gray">Details</b></summary>
   <h2>Process</h2>
   <dl>
     <dt>어제 무엇을 했는지 간단하게 공유.</dt>
@@ -75,10 +75,21 @@
   </dl>
 </details>
 
+### Collaboration
+
+### Branch Convention
+
+Postfix feature branch with issue #.
+
+`main`
+`develop`
+`feature/#1`
+`feature/#2`
+
 ### Commit Convention
 
 Prefix with Issue #
-Ex: `001-feat: add new feature`
+Ex: `#1 feat: add new feature`
 
 > `feat` : 새로운 기능 추가  
 > `design`: css 등 사용자 UI 디자인 변경  
@@ -88,8 +99,6 @@ Ex: `001-feat: add new feature`
 > `refactor` : 코드 리팩토링  
 > `style` : 코드 의미에 영향을 주지 않는 변경사항  
 > `chore` : 빌드 부분 혹은 패키지 매니저 수정사항
-
-### Collaboration
 
 #### GitHub Projects
 
