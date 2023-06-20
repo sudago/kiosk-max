@@ -83,8 +83,8 @@ Postfix feature branch with issue #.
 
 `main`
 `develop`
-`feature/#1`
-`feature/#2`
+`feature#1`
+`feature#2`
 
 ### Commit Convention
 
