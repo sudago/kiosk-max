@@ -8,6 +8,6 @@ public class Controller {
 
 	@GetMapping("/")
 	public String test(){
-		return "before Github Action1";
+		return "before Github Action2";
 	}
 }
